@@ -36,7 +36,7 @@
  /*******************************************************************************
  *                         PT2272_GetAddr()
  * Description    :get addr
- * Argument       :
+ * Argument       :buff included addr
  * Return
  * Caller
  * Author          :toanrv
@@ -56,7 +56,7 @@
  /*******************************************************************************
  *                         PT2272_GetData()
  * Description    : get data
- * Argument       :
+ * Argument       : buff include data
  * Return
  * Caller
  * Author           :toanrv
