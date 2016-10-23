@@ -35,11 +35,11 @@
  *******************************************************************************/
  /*******************************************************************************
  *                         PT2272_GetAddr()
- * Description    :
+ * Description    :get addr
  * Argument       :
  * Return
  * Caller
- * Author
+ * Author          :toanrv
  * Note
  */
  unsigned long PT2272_GetAddr( unsigned short * PT2272Buff){
@@ -55,11 +55,11 @@
  }
  /*******************************************************************************
  *                         PT2272_GetData()
- * Description    :
+ * Description    : get data
  * Argument       :
  * Return
  * Caller
- * Author
+ * Author           :toanrv
  * Note
  */
  unsigned short PT2272_GetData ( unsigned short * PT2272Buff){
